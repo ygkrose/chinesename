@@ -1,0 +1,65 @@
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\jack\Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\Documents and Settings\jack\My Documents\Visual Studio 2005\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\jack\Documents\Visual Studio 2005\Projects\naming\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\jack\Desktop\512mb\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+G:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+H:\chinesename\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+H:\chinesename\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+H:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\chinesename\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\chinesename\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\chinesename\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
