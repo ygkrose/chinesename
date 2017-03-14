@@ -62,28 +62,28 @@ namespace WindowsApplication1
 
             //=================================================================================================================================
 
-            postData = "StrLName=" + textBox1.Text.Substring(0, 1) + "&StrFName=" + textBox1.Text.Substring(1) + "&StrSex=" + _gental + "&StrYear1=2008&StrMonth=09&StrDay=13";
-            //data = System.Text.Encoding.GetEncoding("BIG5").GetBytes(postData);
-            data = System.Text.UnicodeEncoding.GetEncoding("big5").GetBytes(postData);
-            request = HttpWebRequest.Create("http://sunfate.nownews.com/FREE/name/freename_show.asp") as HttpWebRequest;
-            request.Method = "POST";
-            request.ContentType = "application/x-www-form-urlencoded";
-            request.ContentLength = data.Length;
-            newStream = request.GetRequestStream();
-            newStream.Write(data, 0, data.Length);
-            newStream.Close();
-            stIn = new StreamReader(request.GetResponse().GetResponseStream(), System.Text.UnicodeEncoding.GetEncoding("big5"));
-            strResponse = stIn.ReadToEnd();
-            stIn.Close();
-            if (strResponse.IndexOf("無法找到此") > -1)
-            {
-                strResponse = strResponse.Substring(strResponse.IndexOf("無法找到此"), strResponse.LastIndexOf("')") - strResponse.IndexOf("無法找到此"));
-                MessageBox.Show(strResponse.Replace("\\n\\n", ""));
-                tmp = WindowsApplication1.Properties.Resources.cc;
-            }
-            else
-               tmp = strResponse.Substring(strResponse.IndexOf("<table width=\"500\""), strResponse.LastIndexOf("<table width=\"520\"") - strResponse.IndexOf("<table width=\"500\""));
-            webBrowser2.DocumentText = tmp;
+            //postData = "StrLName=" + textBox1.Text.Substring(0, 1) + "&StrFName=" + textBox1.Text.Substring(1) + "&StrSex=" + _gental + "&StrYear1=2008&StrMonth=09&StrDay=13";
+            ////data = System.Text.Encoding.GetEncoding("BIG5").GetBytes(postData);
+            //data = System.Text.UnicodeEncoding.GetEncoding("big5").GetBytes(postData);
+            //request = HttpWebRequest.Create("http://sunfate.nownews.com/FREE/name/freename_show.asp") as HttpWebRequest;
+            //request.Method = "POST";
+            //request.ContentType = "application/x-www-form-urlencoded";
+            //request.ContentLength = data.Length;
+            //newStream = request.GetRequestStream();
+            //newStream.Write(data, 0, data.Length);
+            //newStream.Close();
+            //stIn = new StreamReader(request.GetResponse().GetResponseStream(), System.Text.UnicodeEncoding.GetEncoding("big5"));
+            //strResponse = stIn.ReadToEnd();
+            //stIn.Close();
+            //if (strResponse.IndexOf("無法找到此") > -1)
+            //{
+            //    strResponse = strResponse.Substring(strResponse.IndexOf("無法找到此"), strResponse.LastIndexOf("')") - strResponse.IndexOf("無法找到此"));
+            //    MessageBox.Show(strResponse.Replace("\\n\\n", ""));
+            //    tmp = WindowsApplication1.Properties.Resources.cc;
+            //}
+            //else
+            //   tmp = strResponse.Substring(strResponse.IndexOf("<table width=\"500\""), strResponse.LastIndexOf("<table width=\"520\"") - strResponse.IndexOf("<table width=\"500\""));
+            //webBrowser2.DocumentText = tmp;
             this.Cursor = Cursors.Default;
         }
 
